@@ -1,0 +1,3 @@
+openssl x509 -in cert -text -noout
+https://www.alpertron.com.ar/ECM.HTM
+ggez
